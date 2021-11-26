@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Nick, a dApp developer.
 
-I'm currently building an Ethereum data-analytics platform, [Degenerate Cafe](https://github.com/nickbtts/degenerate-cafe), using React, GraphQL and Javascript, whilst learning about [Web3JS](https://web3js.readthedocs.io/en/v1.3.4/). I also like to contribute to open source decentralised projects, such as [BuildDAO](https://build.finance).
+I'm currently building an Ethereum data-analytics platform, [Degenerate Cafe](https://github.com/nickbtts/degenerate-cafe), using React, GraphQL and Javascript, whilst learning about [Web3JS](https://web3js.readthedocs.io/en/v1.3.4/). I also like to contribute to open source decentralised projects and DAOs, such as [BuildDAO](https://build.finance) or [Information Token DAO](https://informationtoken.io)
 
 <img src="./dgenlogo.png" width="150">
 
